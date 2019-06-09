@@ -1,0 +1,14 @@
+{
+    "name": "laravelutilities/activity-logger",
+    "description": "A very simple activity logger to monitor the users of your website or application",
+    "type": "library",
+    "require": {
+        "laravelutilities/repository": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Ankit Vishwakarma",
+            "email": "er.ankitvishwakarma@gmail.com"
+        }
+    ]
+}
